@@ -1,0 +1,9 @@
+{
+  "id": "brutalist-persistent-banner",
+  "name": "Persistent Banner for Brutalist theme",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Keeps banner callouts visible while scrolling in long notes.",
+  "author": "https://github.com/DuckTapeKiller",
+  "isDesktopOnly": true
+}
