@@ -1,3 +1,9 @@
+[![GitHub Repo stars](https://img.shields.io/github/stars/DuckTapeKiller/brutalist-persistent-banner?style=flat&logo=obsidian&color=%23c0392b)](https://github.com/DuckTapeKiller/brutalist-persistent-banner/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/DuckTapeKiller/brutalist-persistent-banner?logo=obsidian&color=%23c0392b)](https://github.com/DuckTapeKiller/brutalist-persistent-banner/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/DuckTapeKiller/brutalist-persistent-banner?logo=obsidian&color=%23c0392b)](https://github.com/DuckTapeKiller/brutalist-persistent-banner/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub manifest version](https://img.shields.io/github/manifest-json/v/DuckTapeKiller/brutalist-persistent-banner?logo=obsidian&color=%23c0392b)](https://github.com/DuckTapeKiller/brutalist-persistent-banner/blob/main/manifest.json)
+[![Downloads](https://img.shields.io/github/downloads/DuckTapeKiller/brutalist-persistent-banner/total?logo=obsidian&color=%23c0392b)](https://github.com/DuckTapeKiller/brutalist-persistent-banner/releases)
+
 # Persistent Banner
 
 An ultra-minimalistic Obsidian plugin designed exclusively for the **[Brutalist Theme](https://github.com/DuckTapeKiller/Brutalist)**.
